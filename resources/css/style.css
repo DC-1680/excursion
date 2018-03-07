@@ -22,12 +22,13 @@ p{
   font-size: 21px;
   color: Gray;
 }
-p.downloadlink {
+
+.downloadlink {
   color:Aquamarine;
   font-size:16px;
 }
 
-p.copyright{
-  text-align: right;
+.footer{
+  text-align:right;
   color:Gray;
 }
